@@ -1,2 +1,54 @@
-# nancy-kumari
-I am a dedicated developer fueled by a deep enthusiasm for coding, constantly seeking to explore new technologies and tackle challenging problems.
+# 👋 Hi, I'm Nancy Kumari!
+
+### 💻 MERN & Laravel Developer  
+Passionate about building clean, scalable, and user-friendly web applications.
+
+---
+
+## 🚀 About Me
+- 💼 3+ years of experience in **PHP (Laravel)**  
+- 🔥 Growing expertise in **MERN Stack**  
+- 🎯 Focused on building full-stack, high-performance apps  
+- 🌍 Based in India, aiming for opportunities in **Germany**  
+- ✨ Love solving complex problems & learning new technologies  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** React, JavaScript, HTML, CSS, Tailwind  
+**Backend:** Laravel (PHP), Node.js, Express  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, Postman, Docker, VS Code  
+**Payments:** Stripe Integration (Subscriptions, Checkout, Connect)
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 **Portfolio Website**
+A modern, responsive website to showcase my projects, skills, and experience.  
+**Tech:** React  
+**Demo:** Coming Soon  
+
+### 🔹 **Hybrid Tickets App (FitPass)**
+Global fitness event ticketing platform with buying, selling & wishlist features.  
+**Tech:** React, Laravel, MySQL, Stripe  
+**Repo:** https://github.com/nancy787/ticket-backend  
+
+---
+
+## 📊 GitHub Stats  
+
+![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancy787&show_icons=true&theme=gold)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nancy787&layout=compact&theme=gold)
+
+---
+
+## 🤝 Connect With Me  
+📧 Email: *add your email here*  
+🔗 LinkedIn: *your LinkedIn link*  
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
