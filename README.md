@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nancy Kumari!
 
-### 💻 MERN & Laravel Developer  
+### 💻 Software Developer | Backend Engineer  
 Passionate about building clean, scalable, and user-friendly web applications.
 
 ---
