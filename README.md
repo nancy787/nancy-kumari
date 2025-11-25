@@ -35,8 +35,7 @@ A modern, responsive website to showcase my projects, skills, and experience.
 
 ## 📊 GitHub Stats  
 
-![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancy787&show_icons=true&theme=gold)
-
+![Nancy's GitHub stats](https://github.com/nancy787)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nancy787&layout=compact&theme=gold)
 
 ---
