@@ -28,7 +28,7 @@ Passionate about building clean, scalable, and user-friendly web applications.
 ### 🔹 **Portfolio Website**
 A modern, responsive website to showcase my projects, skills, and experience.  
 **Tech:** React  
-**Demo:** Coming Soon  
+**Demo:** https://portfolio-sigma-sooty-35.vercel.app/
 
 
 ---
@@ -41,8 +41,8 @@ A modern, responsive website to showcase my projects, skills, and experience.
 ---
 
 ## 🤝 Connect With Me  
-📧 Email: *add your email here*  
-🔗 LinkedIn: *your LinkedIn link*  
+📧 Email: nancykumari2630@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/nancy-kumari-bb9722204/
 
 ---
 
