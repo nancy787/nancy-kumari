@@ -43,6 +43,7 @@ A modern, responsive website to showcase my projects, skills, and experience.
 ## 🤝 Connect With Me  
 📧 Email: nancykumari2630@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/nancy-kumari-bb9722204/
+🔗 Twitter : https://x.com/NancyKumar26954
 
 ---
 
